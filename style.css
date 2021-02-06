@@ -1,0 +1,24 @@
+h1{
+    color: rgba(0, 225, 255, 0.822);
+}
+*{background-color:yellow ;}
+.header{
+    background-color: chartreuse;
+    display:flex;
+    justify-content: space-evenly;
+border:solid;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+p{
+    color: darkblue;
+    font-size:large;
+}
+.item{
+    border:solid; 
+    border-color: deepskyblue;
+
+}
